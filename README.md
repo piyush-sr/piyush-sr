@@ -26,10 +26,11 @@
 
 ## 📌 What I'm Up To
 
-- 🔍 Exploring data to find patterns that matter
-- 📊 Building dashboards & reports with Power BI
-- 🐍 Writing cleaner Python every day
-- 🌱 Currently learning: Machine Learning basics
+- 💼 Actively seeking **Data Analyst** roles where I can drive business decisions through data
+- 🔍 Building end-to-end projects — from **raw data → cleaning → EDA → dashboards → insights**
+- 📊 Developing production-ready **Power BI dashboards** with KPIs & Business metrics
+- 🧠 Strengthening **SQL query optimization** & **Python automation** for real-world data problems
+- 🤝 Open to **Full-time roles,  & Internships** Data Projects
 
 ---
 
