@@ -50,12 +50,8 @@
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/piyush-singh-rawat-035aa8342">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:piyushsinghrawat34@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-singh-rawat-035aa8342)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:piyushsinghrawat34@gmail.com)
 
 ---
 
