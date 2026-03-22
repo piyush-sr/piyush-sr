@@ -61,6 +61,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-<img src="https://komarev.com/ghpvc/?username=piyush-sr&style=flat-square&color=2196F3" alt="profile views"/>
